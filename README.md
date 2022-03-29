@@ -5,6 +5,25 @@
 <br>
 <br>
 
+### 컬러
+
+---
+
+```
+PrimaryColor:   #FF995E
+SecondaryColor: #FDDBC8
+Green:          #E3F3C6
+Blue:           #E0ECF8
+Yellow:         #FFF1CF
+```
+
+<br>
+
+![color-theme](https://user-images.githubusercontent.com/79133968/160629938-29f07110-e229-4a13-a4e5-90577dfa1e52.jpeg)
+
+<br>
+<br>
+
 ### 회원가입
 
 ---
@@ -32,3 +51,10 @@
 ### 지도
 
 ---
+
+#### 네이버 지도
+
+<br>
+<br>
+
+#### 카카오 지도
