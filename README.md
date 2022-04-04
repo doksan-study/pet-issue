@@ -28,6 +28,13 @@ Yellow:         #FFF1CF
 
 ---
 
+<br>
+
+![onboarding](https://user-images.githubusercontent.com/94351468/161486305-19c6a5d3-0393-4015-9aa2-1955e1fb0f6b.gif)
+
+<br>
+<br>
+
 #### 필수정보
 
 > Email( ID ) <br>
@@ -51,6 +58,11 @@ Yellow:         #FFF1CF
 ### 지도
 
 ---
+
+#### 구글 지도
+
+<br>
+<br>
 
 #### 네이버 지도
 
