@@ -61,6 +61,9 @@ Yellow:         #FFF1CF
 
 #### 구글 지도
 
+
+> react-native-maps에서는 구글 지도를 지원
+
 <br>
 <br>
 
